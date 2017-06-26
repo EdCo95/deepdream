@@ -8,7 +8,7 @@ I have added some comments to try and wrap my head around what is going on, but 
 
 ## References
 * [Original Implementation in Caffe](https://github.com/google/deepdream/blob/master/dream.ipynb)
-* [TensorFlow Version](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb) (what I followed)
+* [TensorFlow Tutorial](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb) (what I followed)
 * [Wikipedia on DeepDream](https://en.wikipedia.org/wiki/DeepDream)
 * [Inception TensorFlow Code](https://github.com/tensorflow/models/tree/master/inception) (The network commonly used in the algorithm)
 * [A Nice Explanation of DeepDream](http://www.kpkaiser.com/machine-learning/diving-deeper-into-deep-dreams/)
