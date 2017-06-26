@@ -12,5 +12,5 @@ I have added some comments to try and wrap my head around what is going on, but 
 * [Wikipedia on DeepDream](https://en.wikipedia.org/wiki/DeepDream)
 * [Inception TensorFlow Code](https://github.com/tensorflow/models/tree/master/inception) (The network commonly used in the algorithm)
 * [A Nice Explanation of DeepDream](http://www.kpkaiser.com/machine-learning/diving-deeper-into-deep-dreams/)
-* [A Nice Video on DeepDream](https://www.youtube.com/watch?v=MrBzgvUNr4w)
+* [A Nice Video on DeepDream](https://www.youtube.com/watch?v=MrBzgvUNr4w) (Moves pretty fast when it gets to the code part, be warned)
 
